@@ -4,7 +4,7 @@ Define mys_elf("Beautiful", "Crazy")
     print ("my_self")
     
    Hello, I am 37 Strong Smart spiritual.
-   . Current setup = Arch linux/with Black arch and a surface pro kernel for my touchscreen. chsanged to kali, due to arch breaking constantly.  Installing Parrot Currently and playing with raspberryPi. still have good ole ubuntu too.   Just on a learning journey.  Knowledge first. Please use information maturely, and Do not do any Penetration Testing without the targets permision and free will to do so
+   . Current setup =  dual boot ubuntu/arch pentesting lab/kali on my desktop, with ubuntu and windows testing .  Please follow all rules and regulations that come with information. Data is always to be kept in the right hands. 
   =>scardina12345/scardina12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
