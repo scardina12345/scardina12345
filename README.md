@@ -1,4 +1,4 @@
-Define mys_elf("Beautiful", "Crazy")
+Define mys_self("Beautiful", "Crazy")
   if Beautiful = my_self:
       crazy == chaotic
     print ("my_self")
